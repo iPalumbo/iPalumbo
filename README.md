@@ -7,13 +7,12 @@ Performance marketer who combines paid media with automation and AI. Based in Jo
 - 4+ years running Meta Ads and Google Ads for lead generation and digital products.
 - Full-funnel ownership: landing pages, copy, tracking, campaign structure, optimization and reporting.
 - Production Engineering degree (UDESC), which shapes how I approach processes, measurement and systems.
-- I do not work with e-commerce.
 
 ## What I build
 
 I use AI coding agents, working under my direction, to build the tooling my paid media work needs:
 
-- **MCP servers for ad platforms.** Let Claude read and operate Meta Ads and Google Ads accounts directly: pull insights, review structure, make changes.
+- **MCP servers for ad platforms.** Let Claude read and operate Meta Ads and Google Ads accounts directly: pull insights, review structure and make changes, with my approval on every write.
 - **Client monitoring system.** Collects messages from client WhatsApp groups into a Postgres database, tracks ad account balances and sends alerts before anything runs dry.
 - **n8n automations.** Reporting, notifications and glue between the tools I work with every day.
 - **Tracking setups.** GA4, Google Tag Manager and server-side tracking so campaigns are optimized on data I trust.
